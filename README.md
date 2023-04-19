@@ -2,7 +2,8 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 
-https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3ey7epDmvk84cIBn5wYZDM1NO5oGzfsICZw99tOh_NA&s
+![download](https://user-images.githubusercontent.com/119485511/233188235-69496406-2986-481d-9a6b-8f0f0b46b62a.png)
+
 
 
 - 🌱 I’m currently learning **Node JS**
