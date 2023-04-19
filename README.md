@@ -14,7 +14,7 @@
 - ⚡ Fun fact **The first computer virus was a Creeper**
 
 
-## About Me:
+<h1>About Me:</h1>
 
 <p>Hello, my name is Lovely Kumari and I am from Bokaro Steel City in Jharkhand. I recently graduated with a B.Tech in Computer Science Engineer in 2022. As a full-stack web developer, I am skilled in HTML, CSS, JavaScript, Node.js, MongoDB, and Express. With my education and expertise, I have a strong foundation for building end-to-end web applications that incorporate both front-end and back-end development.</p>
 
