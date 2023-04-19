@@ -26,7 +26,7 @@
 <h1 align="left">Social Medias:</h1>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/lovely-kumari-86189a215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lovely-kumari-86189a215" height="30" width="40" border="blue"/></a>
-<a href="https://fb.com/https://www.facebook.com/sweepu.singh.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/sweepu.singh.7" height="30" width="40" border="blue"/></a>
+<a href="https://www.naukri.com/mnjuser/homepage" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQj0MVY7pdUFlQhM824czdQZMa6bzwK6vw5iW7Y6DmjHA&s" alt="https://www.facebook.com/sweepu.singh.7" height="30" width="40" border="blue"/></a>
 </p>
 
 <h1 align="left">Tech Stacks:</h1>
