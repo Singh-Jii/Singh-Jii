@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lovely Kumari</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-https://giphy.com/gifs/rock-coding-programming-MdA16VIoXKKxNE8Stk
 
 - 🌱 I’m currently learning **Node JS**
 
