@@ -45,3 +45,8 @@
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> 
 </p>
+
+
+<h1>Random Dev Quote</h1>
+<p>"Programming isn't about what you know; it's about what you can figure out." </p>
+<p>- Chris Pine</p>
