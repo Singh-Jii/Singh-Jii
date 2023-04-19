@@ -48,5 +48,5 @@
 
 
 <h1>Random Dev Quote</h1>
-<p>"Programming isn't about what you know; it's about what you can figure out." </p>
-<p>- Chris Pine</p>
+<p>"Programming isn't about what you know; it's about what you can figure out."      -- Chris Pine</p>
+
