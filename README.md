@@ -30,7 +30,7 @@
 </p>
 
 <h1 align="left">Tech Stacks:</h1>
-<p align="left">C | C++ | Python | HTML | CSS | JavaScript | MongoDB | NodeJS | ExpressJS | APIs | MySQL | TypeScript | Netlify | Postman | Portfolio</p>
+<p align="left">C | C++ | Python | HTML | CSS | JavaScript | MongoDB | NodeJS | ExpressJS | APIs | MySQL | TypeScript | Netlify | Postman | Portfolio | Git | Github</p>
 
 
 
