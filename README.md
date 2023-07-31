@@ -30,20 +30,7 @@
 </p>
 
 <h1 align="left">Tech Stacks:</h1>
-<p align="left">
-<p>C</p>
-<p>C++</p>
-<p>Python</p>
-<p>HTML</p>
-<p>CSS</p>
-<p>JavaScript</p>
-<p>NodeJS</p>
-<p>ExpressJS</p>
-<p>MongoDB</p>
-<p>AIs</p>
-<p>MySQL</p>
-<p>TypeScript</p>
-</p>
+<p align="left">C | C++ | Python | HTML | CSS | JavaScript | MongoDB | NodeJS | ExpressJS | APIs | MySQL | TypeScript</p>
 
 
 
