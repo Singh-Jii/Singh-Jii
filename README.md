@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **lovelykumari.rtcit@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yyGMLlsq9psmV5--n4hYf_rGmK8XFoR5/view?usp=sharing](https://drive.google.com/file/d/1yyGMLlsq9psmV5--n4hYf_rGmK8XFoR5/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1yyGMLlsq9psmV5--n4hYf_rGmK8XFoR5/view?usp=sharing)
 
 - ⚡ Fun fact **The first computer virus was a Creeper**
 
