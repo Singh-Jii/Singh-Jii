@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Node JS**
 
-- 👨‍💻 All of my projects are available at (Portfolio)[https://singh-jii.github.io/](https://singh-jii.github.io/)
+- 👨‍💻 All of my projects are available at [https://singh-jii.github.io/](https://singh-jii.github.io/)
 
 - 💬 Ask me about **HTML, CSS, JavaScript, NodeJS, Express, MongoDB**
 
