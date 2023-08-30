@@ -25,7 +25,7 @@
 
 <h1 align="left">Social Medias:</h1>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/lovely-kumari-86189a215" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/lovely-kumari-86189a215" height="30" width="40" border="blue"/></a>
+[Linkedin](https://www.linkedin.com/in/lovely-kumari-86189a215)
 
 </p>
 
