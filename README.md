@@ -33,9 +33,7 @@ Hello, my name is Lovely Kumari and I am from Bokaro Steel City , Jharkhand. I r
 ## 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lovely-kumari-86189a215)
- <a href="https://singh-jii.github.io/">
-      <img alt="My Personal Website" src="https://img.shields.io/static/v1?color=%237733ff&label=Website&message=Portfolio&style=flat&logo=amp&logoColor=ffffff&labelColor=161937">
-    </a>
+ <a href="https://singh-jii.github.io/"></a>
 
 
 # 💻 Tech Stack:
